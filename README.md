@@ -95,11 +95,7 @@ The application supports two `.fnt` file formats:
 ## Contributing
 Contributions are welcome! Fork the repository, make improvements, and submit pull requests. Suggestions for features (e.g., font selection dropdown, additional font formats) are appreciated.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For questions or support, open an issue in this repository or contact the maintainer.
 ```
 
 ---
@@ -246,11 +242,6 @@ fnt_file = os.path.join(base_folder, "file2.fnt")  # استفاده از file2.f
 ## مشارکت
 اگه دوست دارید به پروژه کمک کنید، می‌تونید مخزن رو فورک کنید، بهبود بدید و درخواست کشیدن (pull request) بفرستید. ایده‌های جدید (مثل منوی انتخاب فونت یا پشتیبانی از فرمت‌های دیگه) استقبال می‌شه!
 
-## مجوز
-این پروژه تحت مجوز MIT منتشر شده. جزئیات رو تو فایل [LICENSE](LICENSE) ببینید.
-
-## تماس
-برای سؤال یا پشتیبانی، یه مسئله (issue) تو مخزن باز کنید یا با نگهدارنده پروژه تماس بگیرید.
 ```
 
 ---
